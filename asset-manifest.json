@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-portfolio-tracker/static/css/main.e6c13ad2.css",
+    "main.js": "/crypto-portfolio-tracker/static/js/main.8a34980e.js",
+    "index.html": "/crypto-portfolio-tracker/index.html",
+    "main.e6c13ad2.css.map": "/crypto-portfolio-tracker/static/css/main.e6c13ad2.css.map",
+    "main.8a34980e.js.map": "/crypto-portfolio-tracker/static/js/main.8a34980e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a34980e.js"
+  ]
+}
